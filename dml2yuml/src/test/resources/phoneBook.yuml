@@ -1,0 +1,4 @@
+[PhoneBook]
+[.pt.ist.fenixframework.DomainRoot]1..1 root - phoneBook 0..1[PhoneBook] // DomainApplication
+[Contact| String name; String phoneNumber;]
+[PhoneBook]1 phoneBook - contact *[Contact] // Contacts

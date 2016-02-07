@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Created-By: Pedro Reis dos Santos
+Implementation-Vendor: Instituto Superior Técnico
+Implementation-Title: pt.tecnico.dml2yuml
+Implementation-Version: 20151015190425
+Specified-By: Pedro Reis dos Santos
+Specification-Vendor: Instituto Superior Técnico
+Specification-Title: dml2yuml converter
+Specification-Version: 19 de Outubro de 2015
+Class-Path: antlr-runtime-4.5.1.jar
+Main-Class: dml2yuml
+Dex-Location: classes.dex
